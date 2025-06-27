@@ -1,31 +1,94 @@
 <h1 align="center">Hi 👋, I'm Ammar Engineer</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer | Tech Explorer | AI & ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammare03&label=Profile%20views&color=0e75b6&style=flat" alt="ammare03" /> </p>
-
-- 🔭 I’m currently working on [Built By Ammar (Portfolio Website)](https://github.com/ammare03/built-by-ammar)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 🤝 I’m looking for help with **AI and ML!**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ammare03/](https://github.com/ammare03/)
-
-- 💬 Ask me about **MERN and Android App Development**
-
-- 📫 How to reach me **engineer.ammar18724@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ammar engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar engineer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ammare03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ammare03" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ammare03&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ammare03?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammare03&show_icons=true&locale=en&layout=compact" alt="ammare03" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammare03&show_icons=true&locale=en" alt="ammare03" /></p>
+- 🔭 Currently building: [**Built By Ammar** – My Portfolio Website](https://github.com/ammare03/built-by-ammar)
+- 🌱 Exploring: **Next.js**, **Serverless**, and **Edge Functions**
+- 🤝 Open to collaboration on: **AI/ML**, **Full Stack Projects**, and **Hackathons**
+- 💬 Ask me about: **MERN Stack**, **Android (Java)**, and **System Design**
+- 📫 Reach me: [engineer.ammar18724@gmail.com](mailto:engineer.ammar18724@gmail.com)
+- ⚡ Fun Fact: I love blending code with creativity — building solutions that *wow*.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammare03&" alt="ammare03" /></p>
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ammar engineer" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://www.leetcode.com/ammare03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" /></a>
+  <a href="mailto:engineer.ammar18724@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,spring,androidstudio,python,tailwind,bootstrap,git,github,firebase,docker,jenkins,tensorflow,scikit-learn,unity" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammare03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+Here are some of my favorite and impactful projects:
+
+| Name | Description | Tech Stack |
+|------|-------------|------------|
+| [🔗 Built By Ammar](https://github.com/ammare03/built-by-ammar) | A responsive developer portfolio to showcase my work. | `Next.js`, `Tailwind CSS`, `Framer Motion` |
+| [🔗 AI Chatbot](#) *(Coming soon)* | A chatbot using NLP + ML for intelligent customer queries. | `Python`, `TensorFlow`, `Streamlit` |
+| [🔗 Android Expense Tracker](#) | A mobile app to track personal expenses. | `Java`, `SQLite`, `Material UI` |
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,graphql,kubernetes,threejs" />
+</p>
+
+---
+
+### 🎯 Fun GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ammare03&theme=gruvbox&no-frame=true&column=7&margin-w=10" />
+</p>
+
+---
+
+### 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammare03&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🗂️ GitHub Projects Highlights
+
+```bash
+📦 30+ Repositories | 🏆 Active Contributor | 💡 Open Source Enthusiast
+```
+
+### 🔗 Let's Collaborate!
+If you're working on something impactful or creative, let’s build it together! Reach out via email or [LinkedIn](https://www.linkedin.com/in/ammar-engineer-9b673b326/).
+
+### ✨ Thanks for visiting!
