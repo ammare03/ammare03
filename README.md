@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: [**Built By Ammar** – My Portfolio Website](https://github.com/ammare03/built-by-ammar)
+- 🔭 Currently building: [**Team Loom** – Team Project Management Website](https://github.com/ammare03/team-loom)
 - 🌱 Exploring: **Next.js**, **Serverless**, and **Edge Functions**
 - 🤝 Open to collaboration on: **AI/ML**, **Full Stack Projects**, and **Hackathons**
 - 💬 Ask me about: **MERN Stack**, **Android (Java)**, and **System Design**
@@ -22,7 +22,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ammar engineer" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ammar-engineer-9b673b326/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a href="https://www.leetcode.com/ammare03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" /></a>
   <a href="mailto:engineer.ammar18724@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -46,30 +46,10 @@
 
 ---
 
-### 🚀 Featured Projects
-
-Here are some of my favorite and impactful projects:
-
-| Name | Description | Tech Stack |
-|------|-------------|------------|
-| [🔗 Built By Ammar](https://github.com/ammare03/built-by-ammar) | A responsive developer portfolio to showcase my work. | `Next.js`, `Tailwind CSS`, `Framer Motion` |
-| [🔗 AI Chatbot](#) *(Coming soon)* | A chatbot using NLP + ML for intelligent customer queries. | `Python`, `TensorFlow`, `Streamlit` |
-| [🔗 Android Expense Tracker](#) | A mobile app to track personal expenses. | `Java`, `SQLite`, `Material UI` |
-
----
-
 ### 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,graphql,kubernetes,threejs" />
-</p>
-
----
-
-### 🎯 Fun GitHub Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammare03&theme=gruvbox&no-frame=true&column=7&margin-w=10" />
+  <img src="https://skillicons.dev/icons?i=nextjs,graphql,kubernetes" />
 </p>
 
 ---
