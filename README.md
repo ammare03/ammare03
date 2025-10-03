@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: [**Team Loom** – Team Project Management Website](https://github.com/ammare03/team-loom)
+- 🔭 Currently building: [**Blog Hive** – Blog Website using Microservices Architecture](https://github.com/ammare03/BlogHive)
 - 🌱 Exploring: **Next.js**, **Serverless**, and **Edge Functions**
 - 🤝 Open to collaboration on: **AI/ML**, **Full Stack Projects**, and **Hackathons**
 - 💬 Ask me about: **MERN Stack**, **Android (Java)**, and **System Design**
